@@ -1,0 +1,13 @@
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsPlusMinus\bin\Debug\netcoreapp3.1\AlgorithmsPlusMinus.exe
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsPlusMinus\bin\Debug\netcoreapp3.1\AlgorithmsPlusMinus.deps.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsPlusMinus\bin\Debug\netcoreapp3.1\AlgorithmsPlusMinus.runtimeconfig.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsPlusMinus\bin\Debug\netcoreapp3.1\AlgorithmsPlusMinus.runtimeconfig.dev.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsPlusMinus\bin\Debug\netcoreapp3.1\AlgorithmsPlusMinus.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsPlusMinus\bin\Debug\netcoreapp3.1\AlgorithmsPlusMinus.pdb
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsPlusMinus\obj\Debug\netcoreapp3.1\AlgorithmsPlusMinus.csproj.AssemblyReference.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsPlusMinus\obj\Debug\netcoreapp3.1\AlgorithmsPlusMinus.AssemblyInfoInputs.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsPlusMinus\obj\Debug\netcoreapp3.1\AlgorithmsPlusMinus.AssemblyInfo.cs
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsPlusMinus\obj\Debug\netcoreapp3.1\AlgorithmsPlusMinus.csproj.CoreCompileInputs.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsPlusMinus\obj\Debug\netcoreapp3.1\AlgorithmsPlusMinus.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsPlusMinus\obj\Debug\netcoreapp3.1\AlgorithmsPlusMinus.pdb
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsPlusMinus\obj\Debug\netcoreapp3.1\AlgorithmsPlusMinus.genruntimeconfig.cache
