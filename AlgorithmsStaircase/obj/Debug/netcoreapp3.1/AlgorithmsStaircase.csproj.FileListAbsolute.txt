@@ -1,0 +1,13 @@
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsStaircase\obj\Debug\netcoreapp3.1\AlgorithmsStaircase.csproj.AssemblyReference.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsStaircase\obj\Debug\netcoreapp3.1\AlgorithmsStaircase.AssemblyInfoInputs.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsStaircase\obj\Debug\netcoreapp3.1\AlgorithmsStaircase.AssemblyInfo.cs
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsStaircase\obj\Debug\netcoreapp3.1\AlgorithmsStaircase.csproj.CoreCompileInputs.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsStaircase\bin\Debug\netcoreapp3.1\AlgorithmsStaircase.exe
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsStaircase\bin\Debug\netcoreapp3.1\AlgorithmsStaircase.deps.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsStaircase\bin\Debug\netcoreapp3.1\AlgorithmsStaircase.runtimeconfig.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsStaircase\bin\Debug\netcoreapp3.1\AlgorithmsStaircase.runtimeconfig.dev.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsStaircase\bin\Debug\netcoreapp3.1\AlgorithmsStaircase.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsStaircase\bin\Debug\netcoreapp3.1\AlgorithmsStaircase.pdb
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsStaircase\obj\Debug\netcoreapp3.1\AlgorithmsStaircase.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsStaircase\obj\Debug\netcoreapp3.1\AlgorithmsStaircase.pdb
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsStaircase\obj\Debug\netcoreapp3.1\AlgorithmsStaircase.genruntimeconfig.cache

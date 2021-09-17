@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j9Vh9bVNltEkz6HP/ocA5kXLXTjG5tXtgN2Kkqm93PQscVEg3XWosFb9bQ5cfUXE2WVvNNyF5HXU68KpE6zTYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sahin\\OneDrive\\Desktop\\​‏       \\GithubProjects\\PatikaCSharp101\\AlgorithmsMiniMaxSum\\AlgorithmsMiniMaxSum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sahin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

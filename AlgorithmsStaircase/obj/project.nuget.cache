@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UyG/xtSlyo+xyUu0EYG10gcDr3uM85gVG9qY/Wq9TJRfYpELn8RIP6eSJbWA4VLKZ/Nt4lHzkJoPVrgErKINtg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sahin\\OneDrive\\Desktop\\​‏       \\GithubProjects\\PatikaCSharp101\\AlgorithmsStaircase\\AlgorithmsStaircase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sahin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

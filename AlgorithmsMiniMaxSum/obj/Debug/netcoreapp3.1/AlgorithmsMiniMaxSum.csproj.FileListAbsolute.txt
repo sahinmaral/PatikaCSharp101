@@ -1,0 +1,13 @@
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsMiniMaxSum\bin\Debug\netcoreapp3.1\AlgorithmsMiniMaxSum.exe
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsMiniMaxSum\bin\Debug\netcoreapp3.1\AlgorithmsMiniMaxSum.deps.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsMiniMaxSum\bin\Debug\netcoreapp3.1\AlgorithmsMiniMaxSum.runtimeconfig.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsMiniMaxSum\bin\Debug\netcoreapp3.1\AlgorithmsMiniMaxSum.runtimeconfig.dev.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsMiniMaxSum\bin\Debug\netcoreapp3.1\AlgorithmsMiniMaxSum.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsMiniMaxSum\bin\Debug\netcoreapp3.1\AlgorithmsMiniMaxSum.pdb
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsMiniMaxSum\obj\Debug\netcoreapp3.1\AlgorithmsMiniMaxSum.csproj.AssemblyReference.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsMiniMaxSum\obj\Debug\netcoreapp3.1\AlgorithmsMiniMaxSum.AssemblyInfoInputs.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsMiniMaxSum\obj\Debug\netcoreapp3.1\AlgorithmsMiniMaxSum.AssemblyInfo.cs
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsMiniMaxSum\obj\Debug\netcoreapp3.1\AlgorithmsMiniMaxSum.csproj.CoreCompileInputs.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsMiniMaxSum\obj\Debug\netcoreapp3.1\AlgorithmsMiniMaxSum.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsMiniMaxSum\obj\Debug\netcoreapp3.1\AlgorithmsMiniMaxSum.pdb
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsMiniMaxSum\obj\Debug\netcoreapp3.1\AlgorithmsMiniMaxSum.genruntimeconfig.cache
