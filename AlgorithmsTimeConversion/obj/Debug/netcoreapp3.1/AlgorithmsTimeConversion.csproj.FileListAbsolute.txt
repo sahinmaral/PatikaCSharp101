@@ -1,0 +1,13 @@
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsTimeConversion\bin\Debug\netcoreapp3.1\AlgorithmsTimeConversion.exe
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsTimeConversion\bin\Debug\netcoreapp3.1\AlgorithmsTimeConversion.deps.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsTimeConversion\bin\Debug\netcoreapp3.1\AlgorithmsTimeConversion.runtimeconfig.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsTimeConversion\bin\Debug\netcoreapp3.1\AlgorithmsTimeConversion.runtimeconfig.dev.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsTimeConversion\bin\Debug\netcoreapp3.1\AlgorithmsTimeConversion.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsTimeConversion\bin\Debug\netcoreapp3.1\AlgorithmsTimeConversion.pdb
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsTimeConversion\obj\Debug\netcoreapp3.1\AlgorithmsTimeConversion.csproj.AssemblyReference.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsTimeConversion\obj\Debug\netcoreapp3.1\AlgorithmsTimeConversion.AssemblyInfoInputs.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsTimeConversion\obj\Debug\netcoreapp3.1\AlgorithmsTimeConversion.AssemblyInfo.cs
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsTimeConversion\obj\Debug\netcoreapp3.1\AlgorithmsTimeConversion.csproj.CoreCompileInputs.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsTimeConversion\obj\Debug\netcoreapp3.1\AlgorithmsTimeConversion.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsTimeConversion\obj\Debug\netcoreapp3.1\AlgorithmsTimeConversion.pdb
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsTimeConversion\obj\Debug\netcoreapp3.1\AlgorithmsTimeConversion.genruntimeconfig.cache

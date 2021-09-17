@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VkmHwqR/Qa5D4ryILYxDi61IcFNe7CUBjf6kUB33i2Xw3jBJsQe57P0lErkeTkvInZuRUvzO4g+GfBGu9nlBSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sahin\\OneDrive\\Desktop\\​‏       \\GithubProjects\\PatikaCSharp101\\AlgorithmsTimeConversion\\AlgorithmsTimeConversion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sahin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}
