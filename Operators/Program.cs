@@ -9,7 +9,7 @@ namespace Operators
             int x = 3;
             int y = 2;
             y = y + 2;
-            
+
             Console.WriteLine(y);
             y += 2;
             Console.WriteLine(y);
@@ -25,11 +25,12 @@ namespace Operators
             {
                 Console.WriteLine("isSuccess && isCompleted");
             }
+
             if (isSuccess || isCompleted)
             {
                 Console.WriteLine("isSuccess || isCompleted");
             }
-            
+
             if (isSuccess && !isCompleted)
             {
                 Console.WriteLine("isSuccess || !isCompleted");
@@ -40,19 +41,19 @@ namespace Operators
 
             bool sonuc = a < b;
             Console.WriteLine(sonuc);
-            
+
             sonuc = a > b;
             Console.WriteLine(sonuc);
-            
+
             sonuc = a >= b;
             Console.WriteLine(sonuc);
-            
+
             sonuc = a <= b;
             Console.WriteLine(sonuc);
-            
+
             sonuc = a == b;
             Console.WriteLine(sonuc);
-            
+
             sonuc = a != b;
             Console.WriteLine(sonuc);
 
@@ -64,10 +65,10 @@ namespace Operators
 
             sonuc1 = sayi1 * sayi2;
             Console.WriteLine(sonuc1);
-            
+
             sonuc1 = sayi1 + sayi2;
             Console.WriteLine(sonuc1);
-            
+
             sonuc1 = sayi1++;
             Console.WriteLine(sonuc1);
 

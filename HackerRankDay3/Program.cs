@@ -7,10 +7,10 @@ namespace HackerRankDay3
         public static void Main(string[] args)
         {
             int N = Convert.ToInt32(Console.ReadLine().Trim());
-        
+
             Console.WriteLine(CheckNumber(N));
         }
-    
+
         public static string CheckNumber(int number)
         {
             if (number % 2 == 1)

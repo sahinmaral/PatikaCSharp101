@@ -6,17 +6,15 @@ namespace ExceptionHandling
     {
         static void Main(string[] args)
         {
-            
-
             try
             {
                 Console.WriteLine("Enter one number");
                 int number = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine("Number : "+number);
+                Console.WriteLine("Number : " + number);
             }
             catch (System.FormatException exception)
             {
-                Console.WriteLine("Lütfen sadece sayı giriniz , "+exception.Message);
+                Console.WriteLine("Lütfen sadece sayı giriniz , " + exception.Message);
             }
             finally
             {
@@ -36,11 +34,9 @@ namespace ExceptionHandling
             {
                 Console.WriteLine("Çok küçük veya büyük değer girdiniz , " + exception.Message);
             }
-            
+
 
             Console.ReadKey();
-
-
         }
     }
 }

@@ -30,13 +30,12 @@ namespace SwitchCase
                 case 10:
                     Console.WriteLine("Autumn");
                     break;
-                
+
                 case 11:
                 case 12:
                 case 1:
                     Console.WriteLine("Winter");
                     break;
-                
             }
         }
 

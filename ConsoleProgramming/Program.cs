@@ -8,11 +8,11 @@ namespace ConsoleProgramming
         {
             Console.Write("Your name : ");
             string name = Console.ReadLine();
-            
+
             Console.Write("Your surname : ");
             string surname = Console.ReadLine();
-            
-            Console.WriteLine("Your name , surname : "+name+surname);
+
+            Console.WriteLine("Your name , surname : " + name + surname);
         }
     }
 }

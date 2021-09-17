@@ -8,11 +8,11 @@ namespace IfElseIfTernaryIf
         {
             int time = DateTime.Now.Hour;
 
-            if (time<12)
+            if (time < 12)
             {
                 Console.WriteLine("Good morning");
             }
-            else if(time >= 12 && time <= 18)
+            else if (time >= 12 && time <= 18)
             {
                 Console.WriteLine("Good evening");
             }
