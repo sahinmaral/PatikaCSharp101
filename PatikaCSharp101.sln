@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators\Oper
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRankDay2", "HackerRankDay2\HackerRankDay2.csproj", "{61C8DC07-EF85-4078-9C04-DE18C81320A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeConversion", "TypeConversion\TypeConversion.csproj", "{29912623-CC50-49FA-A7C7-06B9C736CB59}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{61C8DC07-EF85-4078-9C04-DE18C81320A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61C8DC07-EF85-4078-9C04-DE18C81320A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61C8DC07-EF85-4078-9C04-DE18C81320A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29912623-CC50-49FA-A7C7-06B9C736CB59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29912623-CC50-49FA-A7C7-06B9C736CB59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29912623-CC50-49FA-A7C7-06B9C736CB59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29912623-CC50-49FA-A7C7-06B9C736CB59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

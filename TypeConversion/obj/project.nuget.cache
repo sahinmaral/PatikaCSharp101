@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e7k85imJ1W3HM9v27sFfAWgZFaU77xQFpPXj+H0dgMBH6I7y+CsdpD97TVZHeTSvubf6JL5JcUmkb7TFchDvhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sahin\\OneDrive\\Desktop\\​‏       \\GithubProjects\\PatikaCSharp101\\TypeConversion\\TypeConversion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sahin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}
