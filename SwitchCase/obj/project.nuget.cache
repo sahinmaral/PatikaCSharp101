@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gv+KMWLYPhYl/5Ey/KRebKrSSMB1QX6XrkNc7qTZFaXDzpPAvcwKZY3oVyiL7ZCdLv8hBw5CAJ3uPcvw4DTYzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sahin\\OneDrive\\Desktop\\​‏       \\GithubProjects\\PatikaCSharp101\\SwitchCase\\SwitchCase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sahin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

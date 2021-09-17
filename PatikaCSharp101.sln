@@ -20,6 +20,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfElseIfTernaryIf", "IfElse
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRankDay3", "HackerRankDay3\HackerRankDay3.csproj", "{B813B5C8-63F8-42B5-8F9C-3DF39FDD5592}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{1CDB35BE-7670-4314-9935-98F93C1B87A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRankDay4", "HackerRankDay4\HackerRankDay4.csproj", "{F94106A7-AEA1-4A9B-AAA5-DCF24C746C50}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +70,13 @@ Global
 		{B813B5C8-63F8-42B5-8F9C-3DF39FDD5592}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B813B5C8-63F8-42B5-8F9C-3DF39FDD5592}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B813B5C8-63F8-42B5-8F9C-3DF39FDD5592}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CDB35BE-7670-4314-9935-98F93C1B87A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CDB35BE-7670-4314-9935-98F93C1B87A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CDB35BE-7670-4314-9935-98F93C1B87A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CDB35BE-7670-4314-9935-98F93C1B87A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F94106A7-AEA1-4A9B-AAA5-DCF24C746C50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F94106A7-AEA1-4A9B-AAA5-DCF24C746C50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F94106A7-AEA1-4A9B-AAA5-DCF24C746C50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F94106A7-AEA1-4A9B-AAA5-DCF24C746C50}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
