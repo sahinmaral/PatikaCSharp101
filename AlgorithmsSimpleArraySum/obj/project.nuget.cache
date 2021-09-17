@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uT/RmL0u6xORsAQ0pUUA0K+VT6DGpWCUub7MGkEyY5yGsuGss9vdqDLg1vnAvUCi+xXQ4scgSErydei0NKYpdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sahin\\OneDrive\\Desktop\\​‏       \\GithubProjects\\PatikaCSharp101\\AlgorithmsSimpleArraySum\\AlgorithmsSimpleArraySum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sahin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}
