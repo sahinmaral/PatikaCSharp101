@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRankDay2", "HackerRan
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeConversion", "TypeConversion\TypeConversion.csproj", "{29912623-CC50-49FA-A7C7-06B9C736CB59}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmsSolveMeFirst", "AlgorithmsSolveMeFirst\AlgorithmsSolveMeFirst.csproj", "{B5500FC6-5872-4ED6-851B-A2FABA74EC05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{29912623-CC50-49FA-A7C7-06B9C736CB59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29912623-CC50-49FA-A7C7-06B9C736CB59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29912623-CC50-49FA-A7C7-06B9C736CB59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5500FC6-5872-4ED6-851B-A2FABA74EC05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5500FC6-5872-4ED6-851B-A2FABA74EC05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5500FC6-5872-4ED6-851B-A2FABA74EC05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5500FC6-5872-4ED6-851B-A2FABA74EC05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

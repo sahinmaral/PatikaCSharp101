@@ -1,0 +1,13 @@
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsSolveMeFirst\bin\Debug\netcoreapp3.1\AlgorithmsSolveMeFirst.exe
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsSolveMeFirst\bin\Debug\netcoreapp3.1\AlgorithmsSolveMeFirst.deps.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsSolveMeFirst\bin\Debug\netcoreapp3.1\AlgorithmsSolveMeFirst.runtimeconfig.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsSolveMeFirst\bin\Debug\netcoreapp3.1\AlgorithmsSolveMeFirst.runtimeconfig.dev.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsSolveMeFirst\bin\Debug\netcoreapp3.1\AlgorithmsSolveMeFirst.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsSolveMeFirst\bin\Debug\netcoreapp3.1\AlgorithmsSolveMeFirst.pdb
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsSolveMeFirst\obj\Debug\netcoreapp3.1\AlgorithmsSolveMeFirst.csproj.AssemblyReference.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsSolveMeFirst\obj\Debug\netcoreapp3.1\AlgorithmsSolveMeFirst.AssemblyInfoInputs.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsSolveMeFirst\obj\Debug\netcoreapp3.1\AlgorithmsSolveMeFirst.AssemblyInfo.cs
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsSolveMeFirst\obj\Debug\netcoreapp3.1\AlgorithmsSolveMeFirst.csproj.CoreCompileInputs.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsSolveMeFirst\obj\Debug\netcoreapp3.1\AlgorithmsSolveMeFirst.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsSolveMeFirst\obj\Debug\netcoreapp3.1\AlgorithmsSolveMeFirst.pdb
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsSolveMeFirst\obj\Debug\netcoreapp3.1\AlgorithmsSolveMeFirst.genruntimeconfig.cache
