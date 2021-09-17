@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "k/A5heomUz9YmUByK/SXXNjB2BnkiBcZA6PN+483cOh/4U7hFtyHAgC1e67YDiCglg+yp6pmrtE1Ldvp98ooFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sahin\\OneDrive\\Desktop\\​‏       \\GithubProjects\\PatikaCSharp101\\ExceptionHandling\\ExceptionHandling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sahin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

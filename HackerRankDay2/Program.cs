@@ -12,7 +12,8 @@ namespace HackerRankDay2
 
             int tax_percent = Convert.ToInt32(Console.ReadLine().Trim());
             solve(meal_cost,tip_percent,tax_percent);
-            
+
+            sbyte.Parse()
         }
         
         public static void solve(double meal_cost, int tip_percent, int tax_percent)
