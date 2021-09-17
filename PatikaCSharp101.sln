@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleProgramming", "Conso
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRankDay0", "HackerRankDay0\HackerRankDay0.csproj", "{18C38C51-6F37-4A48-87AC-ADAF1DE07402}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "Variables\Variables.csproj", "{6B3EC792-36F3-4CD1-977B-A17E2BEA0147}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{18C38C51-6F37-4A48-87AC-ADAF1DE07402}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18C38C51-6F37-4A48-87AC-ADAF1DE07402}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18C38C51-6F37-4A48-87AC-ADAF1DE07402}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B3EC792-36F3-4CD1-977B-A17E2BEA0147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B3EC792-36F3-4CD1-977B-A17E2BEA0147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B3EC792-36F3-4CD1-977B-A17E2BEA0147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B3EC792-36F3-4CD1-977B-A17E2BEA0147}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
