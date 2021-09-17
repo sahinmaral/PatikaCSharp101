@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vsyGP8VjRNQ7HCTzUIf5dGiOwyLMllCSs93/4VFgWJQ3VoO07WHG0HvGyTGfZKoFKcB7HNJ90AtlrgQxldnICA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sahin\\OneDrive\\Desktop\\​‏       \\GithubProjects\\PatikaCSharp101\\HackerRankDay4\\HackerRankDay4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sahin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}
