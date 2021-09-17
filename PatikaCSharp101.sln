@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleProgramming", "ConsoleProgramming\ConsoleProgramming.csproj", "{3FD5D201-4A62-4FD8-9625-518528DDAE3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRankDay0", "HackerRankDay0\HackerRankDay0.csproj", "{18C38C51-6F37-4A48-87AC-ADAF1DE07402}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FD5D201-4A62-4FD8-9625-518528DDAE3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FD5D201-4A62-4FD8-9625-518528DDAE3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FD5D201-4A62-4FD8-9625-518528DDAE3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FD5D201-4A62-4FD8-9625-518528DDAE3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18C38C51-6F37-4A48-87AC-ADAF1DE07402}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18C38C51-6F37-4A48-87AC-ADAF1DE07402}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18C38C51-6F37-4A48-87AC-ADAF1DE07402}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18C38C51-6F37-4A48-87AC-ADAF1DE07402}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
