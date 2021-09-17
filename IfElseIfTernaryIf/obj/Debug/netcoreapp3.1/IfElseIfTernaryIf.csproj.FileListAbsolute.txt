@@ -1,0 +1,13 @@
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\IfElseIfTernaryIf\bin\Debug\netcoreapp3.1\IfElseIfTernaryIf.exe
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\IfElseIfTernaryIf\bin\Debug\netcoreapp3.1\IfElseIfTernaryIf.deps.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\IfElseIfTernaryIf\bin\Debug\netcoreapp3.1\IfElseIfTernaryIf.runtimeconfig.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\IfElseIfTernaryIf\bin\Debug\netcoreapp3.1\IfElseIfTernaryIf.runtimeconfig.dev.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\IfElseIfTernaryIf\bin\Debug\netcoreapp3.1\IfElseIfTernaryIf.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\IfElseIfTernaryIf\bin\Debug\netcoreapp3.1\IfElseIfTernaryIf.pdb
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\IfElseIfTernaryIf\obj\Debug\netcoreapp3.1\IfElseIfTernaryIf.csproj.AssemblyReference.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\IfElseIfTernaryIf\obj\Debug\netcoreapp3.1\IfElseIfTernaryIf.AssemblyInfoInputs.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\IfElseIfTernaryIf\obj\Debug\netcoreapp3.1\IfElseIfTernaryIf.AssemblyInfo.cs
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\IfElseIfTernaryIf\obj\Debug\netcoreapp3.1\IfElseIfTernaryIf.csproj.CoreCompileInputs.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\IfElseIfTernaryIf\obj\Debug\netcoreapp3.1\IfElseIfTernaryIf.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\IfElseIfTernaryIf\obj\Debug\netcoreapp3.1\IfElseIfTernaryIf.pdb
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\IfElseIfTernaryIf\obj\Debug\netcoreapp3.1\IfElseIfTernaryIf.genruntimeconfig.cache
