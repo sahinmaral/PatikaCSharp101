@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pJbAOj2J4WvYv1uMoQretowRDbnXI+A09ydn5Y1Xug05Gkwdy0jVexII3vnj77wasiKu0gcVKM1BidfNNs0ztA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sahin\\OneDrive\\Desktop\\​‏       \\GithubProjects\\PatikaCSharp101\\Dictionary\\Dictionary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sahin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}
