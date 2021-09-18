@@ -18,17 +18,14 @@ namespace HackerRankDay20
         private static void BubbleSort(List<int> a, int n)
         {
             int numberOfSwaps = 0;
-
-
+            
             for (int i = 0; i < a.Count; i++)
             {
                 for (int j = 0; j < a.Count - 1; j++)
                 {
                     if (a[j] > a[j + 1])
                     {
-                        int temp = a[j];
-                        a[j] = a[j + 1];
-                        a[j + 1] = temp;
+                        (a[j], a[j + 1]) = (a[j + 1], a[j]);
                         numberOfSwaps++;
                     }
                 }
