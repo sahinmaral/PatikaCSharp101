@@ -1,0 +1,13 @@
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsMigratoryBirds\bin\Debug\netcoreapp3.1\AlgorithmsMigratoryBirds.exe
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsMigratoryBirds\bin\Debug\netcoreapp3.1\AlgorithmsMigratoryBirds.deps.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsMigratoryBirds\bin\Debug\netcoreapp3.1\AlgorithmsMigratoryBirds.runtimeconfig.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsMigratoryBirds\bin\Debug\netcoreapp3.1\AlgorithmsMigratoryBirds.runtimeconfig.dev.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsMigratoryBirds\bin\Debug\netcoreapp3.1\AlgorithmsMigratoryBirds.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsMigratoryBirds\bin\Debug\netcoreapp3.1\AlgorithmsMigratoryBirds.pdb
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsMigratoryBirds\obj\Debug\netcoreapp3.1\AlgorithmsMigratoryBirds.csproj.AssemblyReference.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsMigratoryBirds\obj\Debug\netcoreapp3.1\AlgorithmsMigratoryBirds.AssemblyInfoInputs.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsMigratoryBirds\obj\Debug\netcoreapp3.1\AlgorithmsMigratoryBirds.AssemblyInfo.cs
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsMigratoryBirds\obj\Debug\netcoreapp3.1\AlgorithmsMigratoryBirds.csproj.CoreCompileInputs.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsMigratoryBirds\obj\Debug\netcoreapp3.1\AlgorithmsMigratoryBirds.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsMigratoryBirds\obj\Debug\netcoreapp3.1\AlgorithmsMigratoryBirds.pdb
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsMigratoryBirds\obj\Debug\netcoreapp3.1\AlgorithmsMigratoryBirds.genruntimeconfig.cache
