@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WCdF+dRvLT5F2l2Y1UXcFGGTkHQgCoiqknxbHBs7qHZVJnD8Fb+GLl33rzcjNgc2P0RhHnYt+Dd9AcmegCLEiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sahin\\OneDrive\\Desktop\\​‏       \\GithubProjects\\PatikaCSharp101\\Enums\\Enums.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sahin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

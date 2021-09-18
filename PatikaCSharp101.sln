@@ -109,6 +109,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncapsulationProperty", "En
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticClassAndMembers", "StaticClassAndMembers\StaticClassAndMembers.csproj", "{17BB95EE-8E18-43FC-AB26-B3C6EDEB3353}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enums", "Enums\Enums.csproj", "{7CA74C71-BAF4-44A2-975D-2FAA831D5578}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -311,6 +313,10 @@ Global
 		{17BB95EE-8E18-43FC-AB26-B3C6EDEB3353}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17BB95EE-8E18-43FC-AB26-B3C6EDEB3353}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17BB95EE-8E18-43FC-AB26-B3C6EDEB3353}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CA74C71-BAF4-44A2-975D-2FAA831D5578}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CA74C71-BAF4-44A2-975D-2FAA831D5578}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CA74C71-BAF4-44A2-975D-2FAA831D5578}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CA74C71-BAF4-44A2-975D-2FAA831D5578}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -367,6 +373,7 @@ Global
 		{AA2A23B4-89E2-4F2A-A2A5-284E8FFF4108} = {0EBCC40F-BD1D-4D48-8C10-85B367E2D446}
 		{508B7E84-11AE-499B-B432-2BCD46CEC604} = {0EBCC40F-BD1D-4D48-8C10-85B367E2D446}
 		{17BB95EE-8E18-43FC-AB26-B3C6EDEB3353} = {0EBCC40F-BD1D-4D48-8C10-85B367E2D446}
+		{7CA74C71-BAF4-44A2-975D-2FAA831D5578} = {0EBCC40F-BD1D-4D48-8C10-85B367E2D446}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B9C2C49B-386E-41D6-BEB5-983C1BCE2E05}
