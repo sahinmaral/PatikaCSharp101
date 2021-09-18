@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fbUqcPTfw38nuSWAnD6KB1Tz0qYaIPM5xkK4LfB+/GXxUheWT42qZGgaK1GDiniU84EPSFkIqOFc7xn5gBA+AA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sahin\\OneDrive\\Desktop\\​‏       \\GithubProjects\\PatikaCSharp101\\AlgorithmsBirthdayCakeCandles\\AlgorithmsBirthdayCakeCandles.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sahin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

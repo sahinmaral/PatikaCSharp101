@@ -1,0 +1,13 @@
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsCompareTheTriplets\bin\Debug\netcoreapp3.1\AlgorithmsCompareTheTriplets.exe
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsCompareTheTriplets\bin\Debug\netcoreapp3.1\AlgorithmsCompareTheTriplets.deps.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsCompareTheTriplets\bin\Debug\netcoreapp3.1\AlgorithmsCompareTheTriplets.runtimeconfig.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsCompareTheTriplets\bin\Debug\netcoreapp3.1\AlgorithmsCompareTheTriplets.runtimeconfig.dev.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsCompareTheTriplets\bin\Debug\netcoreapp3.1\AlgorithmsCompareTheTriplets.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsCompareTheTriplets\bin\Debug\netcoreapp3.1\AlgorithmsCompareTheTriplets.pdb
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsCompareTheTriplets\obj\Debug\netcoreapp3.1\AlgorithmsCompareTheTriplets.csproj.AssemblyReference.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsCompareTheTriplets\obj\Debug\netcoreapp3.1\AlgorithmsCompareTheTriplets.AssemblyInfoInputs.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsCompareTheTriplets\obj\Debug\netcoreapp3.1\AlgorithmsCompareTheTriplets.AssemblyInfo.cs
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsCompareTheTriplets\obj\Debug\netcoreapp3.1\AlgorithmsCompareTheTriplets.csproj.CoreCompileInputs.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsCompareTheTriplets\obj\Debug\netcoreapp3.1\AlgorithmsCompareTheTriplets.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsCompareTheTriplets\obj\Debug\netcoreapp3.1\AlgorithmsCompareTheTriplets.pdb
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsCompareTheTriplets\obj\Debug\netcoreapp3.1\AlgorithmsCompareTheTriplets.genruntimeconfig.cache
