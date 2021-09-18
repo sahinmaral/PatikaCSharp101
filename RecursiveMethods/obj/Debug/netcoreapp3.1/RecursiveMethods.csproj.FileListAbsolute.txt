@@ -1,0 +1,13 @@
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\RecursiveMethods\bin\Debug\netcoreapp3.1\RecursiveMethods.exe
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\RecursiveMethods\bin\Debug\netcoreapp3.1\RecursiveMethods.deps.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\RecursiveMethods\bin\Debug\netcoreapp3.1\RecursiveMethods.runtimeconfig.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\RecursiveMethods\bin\Debug\netcoreapp3.1\RecursiveMethods.runtimeconfig.dev.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\RecursiveMethods\bin\Debug\netcoreapp3.1\RecursiveMethods.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\RecursiveMethods\bin\Debug\netcoreapp3.1\RecursiveMethods.pdb
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\RecursiveMethods\obj\Debug\netcoreapp3.1\RecursiveMethods.csproj.AssemblyReference.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\RecursiveMethods\obj\Debug\netcoreapp3.1\RecursiveMethods.AssemblyInfoInputs.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\RecursiveMethods\obj\Debug\netcoreapp3.1\RecursiveMethods.AssemblyInfo.cs
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\RecursiveMethods\obj\Debug\netcoreapp3.1\RecursiveMethods.csproj.CoreCompileInputs.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\RecursiveMethods\obj\Debug\netcoreapp3.1\RecursiveMethods.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\RecursiveMethods\obj\Debug\netcoreapp3.1\RecursiveMethods.pdb
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\RecursiveMethods\obj\Debug\netcoreapp3.1\RecursiveMethods.genruntimeconfig.cache
