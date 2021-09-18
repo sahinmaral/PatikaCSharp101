@@ -1,0 +1,13 @@
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsAboutCollections\bin\Debug\netcoreapp3.1\AlgorithmsAboutCollections.exe
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsAboutCollections\bin\Debug\netcoreapp3.1\AlgorithmsAboutCollections.deps.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsAboutCollections\bin\Debug\netcoreapp3.1\AlgorithmsAboutCollections.runtimeconfig.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsAboutCollections\bin\Debug\netcoreapp3.1\AlgorithmsAboutCollections.runtimeconfig.dev.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsAboutCollections\bin\Debug\netcoreapp3.1\AlgorithmsAboutCollections.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsAboutCollections\bin\Debug\netcoreapp3.1\AlgorithmsAboutCollections.pdb
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsAboutCollections\obj\Debug\netcoreapp3.1\AlgorithmsAboutCollections.AssemblyInfoInputs.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsAboutCollections\obj\Debug\netcoreapp3.1\AlgorithmsAboutCollections.AssemblyInfo.cs
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsAboutCollections\obj\Debug\netcoreapp3.1\AlgorithmsAboutCollections.csproj.CoreCompileInputs.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsAboutCollections\obj\Debug\netcoreapp3.1\AlgorithmsAboutCollections.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsAboutCollections\obj\Debug\netcoreapp3.1\AlgorithmsAboutCollections.pdb
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsAboutCollections\obj\Debug\netcoreapp3.1\AlgorithmsAboutCollections.genruntimeconfig.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsAboutCollections\obj\Debug\netcoreapp3.1\AlgorithmsAboutCollections.csprojAssemblyReference.cache
