@@ -1,0 +1,13 @@
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsAVeryBigSum\bin\Debug\netcoreapp3.1\AlgorithmsAVeryBigSum.exe
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsAVeryBigSum\bin\Debug\netcoreapp3.1\AlgorithmsAVeryBigSum.deps.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsAVeryBigSum\bin\Debug\netcoreapp3.1\AlgorithmsAVeryBigSum.runtimeconfig.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsAVeryBigSum\bin\Debug\netcoreapp3.1\AlgorithmsAVeryBigSum.runtimeconfig.dev.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsAVeryBigSum\bin\Debug\netcoreapp3.1\AlgorithmsAVeryBigSum.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsAVeryBigSum\bin\Debug\netcoreapp3.1\AlgorithmsAVeryBigSum.pdb
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsAVeryBigSum\obj\Debug\netcoreapp3.1\AlgorithmsAVeryBigSum.csproj.AssemblyReference.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsAVeryBigSum\obj\Debug\netcoreapp3.1\AlgorithmsAVeryBigSum.AssemblyInfoInputs.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsAVeryBigSum\obj\Debug\netcoreapp3.1\AlgorithmsAVeryBigSum.AssemblyInfo.cs
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsAVeryBigSum\obj\Debug\netcoreapp3.1\AlgorithmsAVeryBigSum.csproj.CoreCompileInputs.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsAVeryBigSum\obj\Debug\netcoreapp3.1\AlgorithmsAVeryBigSum.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsAVeryBigSum\obj\Debug\netcoreapp3.1\AlgorithmsAVeryBigSum.pdb
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsAVeryBigSum\obj\Debug\netcoreapp3.1\AlgorithmsAVeryBigSum.genruntimeconfig.cache

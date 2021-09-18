@@ -1,0 +1,12 @@
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\GenericLists\bin\Debug\netcoreapp3.1\GenericLists.exe
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\GenericLists\bin\Debug\netcoreapp3.1\GenericLists.deps.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\GenericLists\bin\Debug\netcoreapp3.1\GenericLists.runtimeconfig.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\GenericLists\bin\Debug\netcoreapp3.1\GenericLists.runtimeconfig.dev.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\GenericLists\bin\Debug\netcoreapp3.1\GenericLists.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\GenericLists\bin\Debug\netcoreapp3.1\GenericLists.pdb
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\GenericLists\obj\Debug\netcoreapp3.1\GenericLists.AssemblyInfoInputs.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\GenericLists\obj\Debug\netcoreapp3.1\GenericLists.AssemblyInfo.cs
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\GenericLists\obj\Debug\netcoreapp3.1\GenericLists.csproj.CoreCompileInputs.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\GenericLists\obj\Debug\netcoreapp3.1\GenericLists.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\GenericLists\obj\Debug\netcoreapp3.1\GenericLists.pdb
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\GenericLists\obj\Debug\netcoreapp3.1\GenericLists.genruntimeconfig.cache

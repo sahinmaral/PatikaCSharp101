@@ -1,0 +1,12 @@
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsSimpleArraySum\bin\Debug\netcoreapp3.1\AlgorithmsSimpleArraySum.exe
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsSimpleArraySum\bin\Debug\netcoreapp3.1\AlgorithmsSimpleArraySum.deps.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsSimpleArraySum\bin\Debug\netcoreapp3.1\AlgorithmsSimpleArraySum.runtimeconfig.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsSimpleArraySum\bin\Debug\netcoreapp3.1\AlgorithmsSimpleArraySum.runtimeconfig.dev.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsSimpleArraySum\bin\Debug\netcoreapp3.1\AlgorithmsSimpleArraySum.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsSimpleArraySum\bin\Debug\netcoreapp3.1\AlgorithmsSimpleArraySum.pdb
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsSimpleArraySum\obj\Debug\netcoreapp3.1\AlgorithmsSimpleArraySum.AssemblyInfoInputs.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsSimpleArraySum\obj\Debug\netcoreapp3.1\AlgorithmsSimpleArraySum.AssemblyInfo.cs
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsSimpleArraySum\obj\Debug\netcoreapp3.1\AlgorithmsSimpleArraySum.csproj.CoreCompileInputs.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsSimpleArraySum\obj\Debug\netcoreapp3.1\AlgorithmsSimpleArraySum.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsSimpleArraySum\obj\Debug\netcoreapp3.1\AlgorithmsSimpleArraySum.pdb
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsSimpleArraySum\obj\Debug\netcoreapp3.1\AlgorithmsSimpleArraySum.genruntimeconfig.cache

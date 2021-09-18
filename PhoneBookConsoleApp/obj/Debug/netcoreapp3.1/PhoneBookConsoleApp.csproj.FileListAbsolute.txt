@@ -1,0 +1,13 @@
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\PhoneBookConsoleApp\bin\Debug\netcoreapp3.1\PhoneBookConsoleApp.exe
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\PhoneBookConsoleApp\bin\Debug\netcoreapp3.1\PhoneBookConsoleApp.deps.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\PhoneBookConsoleApp\bin\Debug\netcoreapp3.1\PhoneBookConsoleApp.runtimeconfig.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\PhoneBookConsoleApp\bin\Debug\netcoreapp3.1\PhoneBookConsoleApp.runtimeconfig.dev.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\PhoneBookConsoleApp\bin\Debug\netcoreapp3.1\PhoneBookConsoleApp.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\PhoneBookConsoleApp\bin\Debug\netcoreapp3.1\PhoneBookConsoleApp.pdb
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\PhoneBookConsoleApp\obj\Debug\netcoreapp3.1\PhoneBookConsoleApp.csproj.AssemblyReference.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\PhoneBookConsoleApp\obj\Debug\netcoreapp3.1\PhoneBookConsoleApp.AssemblyInfoInputs.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\PhoneBookConsoleApp\obj\Debug\netcoreapp3.1\PhoneBookConsoleApp.AssemblyInfo.cs
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\PhoneBookConsoleApp\obj\Debug\netcoreapp3.1\PhoneBookConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\PhoneBookConsoleApp\obj\Debug\netcoreapp3.1\PhoneBookConsoleApp.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\PhoneBookConsoleApp\obj\Debug\netcoreapp3.1\PhoneBookConsoleApp.pdb
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\PhoneBookConsoleApp\obj\Debug\netcoreapp3.1\PhoneBookConsoleApp.genruntimeconfig.cache

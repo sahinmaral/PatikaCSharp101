@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iBFF5+A99UShRbFysIDAdFKaBCIkjuv2CLud0lKw4eDFzxwojZ2gpWmLllMxKlRJHkQfgTdmMj8rotirsxgyCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sahin\\OneDrive\\Desktop\\​‏       \\GithubProjects\\PatikaCSharp101\\PhoneBookConsoleApp\\PhoneBookConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sahin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}
