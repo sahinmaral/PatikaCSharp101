@@ -4,7 +4,6 @@ C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\Patik
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\MethodOverloading\bin\Debug\netcoreapp3.1\MethodOverloading.runtimeconfig.dev.json
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\MethodOverloading\bin\Debug\netcoreapp3.1\MethodOverloading.dll
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\MethodOverloading\bin\Debug\netcoreapp3.1\MethodOverloading.pdb
-C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\MethodOverloading\obj\Debug\netcoreapp3.1\MethodOverloading.csproj.AssemblyReference.cache
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\MethodOverloading\obj\Debug\netcoreapp3.1\MethodOverloading.AssemblyInfoInputs.cache
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\MethodOverloading\obj\Debug\netcoreapp3.1\MethodOverloading.AssemblyInfo.cs
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\MethodOverloading\obj\Debug\netcoreapp3.1\MethodOverloading.csproj.CoreCompileInputs.cache

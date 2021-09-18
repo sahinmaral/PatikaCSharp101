@@ -10,4 +10,3 @@ C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\Patik
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsAboutCollections\obj\Debug\netcoreapp3.1\AlgorithmsAboutCollections.dll
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsAboutCollections\obj\Debug\netcoreapp3.1\AlgorithmsAboutCollections.pdb
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsAboutCollections\obj\Debug\netcoreapp3.1\AlgorithmsAboutCollections.genruntimeconfig.cache
-C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmsAboutCollections\obj\Debug\netcoreapp3.1\AlgorithmsAboutCollections.csprojAssemblyReference.cache

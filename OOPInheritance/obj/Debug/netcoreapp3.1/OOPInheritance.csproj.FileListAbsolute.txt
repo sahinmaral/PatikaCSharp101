@@ -4,7 +4,6 @@ C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\Patik
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\OOPInheritance\bin\Debug\netcoreapp3.1\OOPInheritance.runtimeconfig.dev.json
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\OOPInheritance\bin\Debug\netcoreapp3.1\OOPInheritance.dll
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\OOPInheritance\bin\Debug\netcoreapp3.1\OOPInheritance.pdb
-C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\OOPInheritance\obj\Debug\netcoreapp3.1\OOPInheritance.csproj.AssemblyReference.cache
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\OOPInheritance\obj\Debug\netcoreapp3.1\OOPInheritance.AssemblyInfoInputs.cache
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\OOPInheritance\obj\Debug\netcoreapp3.1\OOPInheritance.AssemblyInfo.cs
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\OOPInheritance\obj\Debug\netcoreapp3.1\OOPInheritance.csproj.CoreCompileInputs.cache

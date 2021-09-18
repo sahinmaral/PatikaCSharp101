@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1LUseVoBAWaalm4mATPALN+q0tcDByFtkyxifHznYiY6gx4F934jphQHqAvh+IJzrrvQ3BoDWUfIChBWy5NeEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sahin\\OneDrive\\Desktop\\​‏       \\GithubProjects\\PatikaCSharp101\\Classes\\Classes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sahin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

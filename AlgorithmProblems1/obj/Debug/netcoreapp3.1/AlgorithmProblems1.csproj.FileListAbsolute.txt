@@ -4,7 +4,6 @@ C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\Patik
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmProblems1\bin\Debug\netcoreapp3.1\AlgorithmProblems1.runtimeconfig.dev.json
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmProblems1\bin\Debug\netcoreapp3.1\AlgorithmProblems1.dll
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmProblems1\bin\Debug\netcoreapp3.1\AlgorithmProblems1.pdb
-C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmProblems1\obj\Debug\netcoreapp3.1\AlgorithmProblems1.csproj.AssemblyReference.cache
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmProblems1\obj\Debug\netcoreapp3.1\AlgorithmProblems1.AssemblyInfoInputs.cache
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmProblems1\obj\Debug\netcoreapp3.1\AlgorithmProblems1.AssemblyInfo.cs
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\AlgorithmProblems1\obj\Debug\netcoreapp3.1\AlgorithmProblems1.csproj.CoreCompileInputs.cache

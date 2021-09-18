@@ -17,10 +17,10 @@ C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\Patik
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\ConsoleProgramming\bin\Debug\netcoreapp3.1\ConsoleProgramming.runtimeconfig.dev.json
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\ConsoleProgramming\bin\Debug\netcoreapp3.1\ConsoleProgramming.dll
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\ConsoleProgramming\bin\Debug\netcoreapp3.1\ConsoleProgramming.pdb
-C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\ConsoleProgramming\obj\Debug\netcoreapp3.1\ConsoleProgramming.csproj.AssemblyReference.cache
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\ConsoleProgramming\obj\Debug\netcoreapp3.1\ConsoleProgramming.AssemblyInfoInputs.cache
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\ConsoleProgramming\obj\Debug\netcoreapp3.1\ConsoleProgramming.AssemblyInfo.cs
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\ConsoleProgramming\obj\Debug\netcoreapp3.1\ConsoleProgramming.csproj.CoreCompileInputs.cache
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\ConsoleProgramming\obj\Debug\netcoreapp3.1\ConsoleProgramming.dll
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\ConsoleProgramming\obj\Debug\netcoreapp3.1\ConsoleProgramming.pdb
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\ConsoleProgramming\obj\Debug\netcoreapp3.1\ConsoleProgramming.genruntimeconfig.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\ConsoleProgramming\obj\Debug\netcoreapp3.1\ConsoleProgramming.csprojAssemblyReference.cache
