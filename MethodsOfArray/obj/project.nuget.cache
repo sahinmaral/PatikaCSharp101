@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s7mFkLPZ7jvbdGmXE2TbiHM7LerL03CeJweRZmW1Th2GbOR6pcC0VJqOUwsdZhpNz/juk7CBeMShSUq/bgHykg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sahin\\OneDrive\\Desktop\\​‏       \\GithubProjects\\PatikaCSharp101\\MethodsOfArray\\MethodsOfArray.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sahin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

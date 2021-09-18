@@ -1,0 +1,13 @@
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\MethodsOfArray\bin\Debug\netcoreapp3.1\MethodsOfArray.exe
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\MethodsOfArray\bin\Debug\netcoreapp3.1\MethodsOfArray.deps.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\MethodsOfArray\bin\Debug\netcoreapp3.1\MethodsOfArray.runtimeconfig.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\MethodsOfArray\bin\Debug\netcoreapp3.1\MethodsOfArray.runtimeconfig.dev.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\MethodsOfArray\bin\Debug\netcoreapp3.1\MethodsOfArray.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\MethodsOfArray\bin\Debug\netcoreapp3.1\MethodsOfArray.pdb
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\MethodsOfArray\obj\Debug\netcoreapp3.1\MethodsOfArray.csproj.AssemblyReference.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\MethodsOfArray\obj\Debug\netcoreapp3.1\MethodsOfArray.AssemblyInfoInputs.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\MethodsOfArray\obj\Debug\netcoreapp3.1\MethodsOfArray.AssemblyInfo.cs
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\MethodsOfArray\obj\Debug\netcoreapp3.1\MethodsOfArray.csproj.CoreCompileInputs.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\MethodsOfArray\obj\Debug\netcoreapp3.1\MethodsOfArray.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\MethodsOfArray\obj\Debug\netcoreapp3.1\MethodsOfArray.pdb
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\MethodsOfArray\obj\Debug\netcoreapp3.1\MethodsOfArray.genruntimeconfig.cache
