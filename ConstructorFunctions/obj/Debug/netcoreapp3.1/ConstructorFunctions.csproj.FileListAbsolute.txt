@@ -1,0 +1,13 @@
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\ConstructorFunctions\bin\Debug\netcoreapp3.1\ConstructorFunctions.exe
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\ConstructorFunctions\bin\Debug\netcoreapp3.1\ConstructorFunctions.deps.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\ConstructorFunctions\bin\Debug\netcoreapp3.1\ConstructorFunctions.runtimeconfig.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\ConstructorFunctions\bin\Debug\netcoreapp3.1\ConstructorFunctions.runtimeconfig.dev.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\ConstructorFunctions\bin\Debug\netcoreapp3.1\ConstructorFunctions.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\ConstructorFunctions\bin\Debug\netcoreapp3.1\ConstructorFunctions.pdb
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\ConstructorFunctions\obj\Debug\netcoreapp3.1\ConstructorFunctions.csproj.AssemblyReference.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\ConstructorFunctions\obj\Debug\netcoreapp3.1\ConstructorFunctions.AssemblyInfoInputs.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\ConstructorFunctions\obj\Debug\netcoreapp3.1\ConstructorFunctions.AssemblyInfo.cs
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\ConstructorFunctions\obj\Debug\netcoreapp3.1\ConstructorFunctions.csproj.CoreCompileInputs.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\ConstructorFunctions\obj\Debug\netcoreapp3.1\ConstructorFunctions.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\ConstructorFunctions\obj\Debug\netcoreapp3.1\ConstructorFunctions.pdb
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\ConstructorFunctions\obj\Debug\netcoreapp3.1\ConstructorFunctions.genruntimeconfig.cache

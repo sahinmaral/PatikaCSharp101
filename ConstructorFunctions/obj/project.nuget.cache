@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d60fvQ1XN5sodfZ8PALmwvqDlDGvrrmuoXbqJTFusgzUvN5QSFOKFcaN9r/wheB3vR7nmKY8u4g+xdTciCIAYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sahin\\OneDrive\\Desktop\\​‏       \\GithubProjects\\PatikaCSharp101\\ConstructorFunctions\\ConstructorFunctions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sahin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}
