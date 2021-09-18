@@ -24,6 +24,11 @@ namespace ConstructorFunctions
             this.Department = department;
             this.Number = number;
         }
+
+        public Employee()
+        {
+            
+        }
         
         public string Surname
         {

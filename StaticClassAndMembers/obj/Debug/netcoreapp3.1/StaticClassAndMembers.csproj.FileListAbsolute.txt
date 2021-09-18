@@ -1,0 +1,13 @@
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\StaticClassAndMembers\obj\Debug\netcoreapp3.1\StaticClassAndMembers.csproj.AssemblyReference.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\StaticClassAndMembers\obj\Debug\netcoreapp3.1\StaticClassAndMembers.AssemblyInfoInputs.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\StaticClassAndMembers\obj\Debug\netcoreapp3.1\StaticClassAndMembers.AssemblyInfo.cs
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\StaticClassAndMembers\obj\Debug\netcoreapp3.1\StaticClassAndMembers.csproj.CoreCompileInputs.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\StaticClassAndMembers\bin\Debug\netcoreapp3.1\StaticClassAndMembers.exe
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\StaticClassAndMembers\bin\Debug\netcoreapp3.1\StaticClassAndMembers.deps.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\StaticClassAndMembers\bin\Debug\netcoreapp3.1\StaticClassAndMembers.runtimeconfig.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\StaticClassAndMembers\bin\Debug\netcoreapp3.1\StaticClassAndMembers.runtimeconfig.dev.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\StaticClassAndMembers\bin\Debug\netcoreapp3.1\StaticClassAndMembers.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\StaticClassAndMembers\bin\Debug\netcoreapp3.1\StaticClassAndMembers.pdb
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\StaticClassAndMembers\obj\Debug\netcoreapp3.1\StaticClassAndMembers.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\StaticClassAndMembers\obj\Debug\netcoreapp3.1\StaticClassAndMembers.pdb
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\StaticClassAndMembers\obj\Debug\netcoreapp3.1\StaticClassAndMembers.genruntimeconfig.cache
