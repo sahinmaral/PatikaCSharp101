@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YgjqYPJt/Qo2Eug2oE+HFDca3Fr0cr/4hAojuW0ImEgEc1SnVWLPPF5krxoib03wbuZcXwU1xTfdeUGwVPCM9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sahin\\OneDrive\\Desktop\\​‏       \\GithubProjects\\PatikaCSharp101\\MethodOverloading\\MethodOverloading.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sahin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}
