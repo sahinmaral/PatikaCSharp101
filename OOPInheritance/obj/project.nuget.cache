@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dMd11nl6CJpAW6JvWoZYtVmNBHBw8hep4pRLMHWPA/EQVc2rnN1sd/esbs0nTq3YfDgxhWen6pzqWxHAXKX5DA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sahin\\OneDrive\\Desktop\\​‏       \\GithubProjects\\PatikaCSharp101\\OOPInheritance\\OOPInheritance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sahin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}
