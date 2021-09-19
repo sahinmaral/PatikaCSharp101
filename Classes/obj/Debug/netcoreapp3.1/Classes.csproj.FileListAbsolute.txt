@@ -1,0 +1,12 @@
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\Classes\bin\Debug\netcoreapp3.1\Classes.exe
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\Classes\bin\Debug\netcoreapp3.1\Classes.deps.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\Classes\bin\Debug\netcoreapp3.1\Classes.runtimeconfig.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\Classes\bin\Debug\netcoreapp3.1\Classes.runtimeconfig.dev.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\Classes\bin\Debug\netcoreapp3.1\Classes.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\Classes\bin\Debug\netcoreapp3.1\Classes.pdb
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\Classes\obj\Debug\netcoreapp3.1\Classes.AssemblyInfoInputs.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\Classes\obj\Debug\netcoreapp3.1\Classes.AssemblyInfo.cs
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\Classes\obj\Debug\netcoreapp3.1\Classes.csproj.CoreCompileInputs.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\Classes\obj\Debug\netcoreapp3.1\Classes.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\Classes\obj\Debug\netcoreapp3.1\Classes.pdb
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\Classes\obj\Debug\netcoreapp3.1\Classes.genruntimeconfig.cache

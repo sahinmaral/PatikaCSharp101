@@ -1,0 +1,13 @@
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\ToDoConsoleApp\obj\Debug\netcoreapp3.1\ToDoConsoleApp.AssemblyInfoInputs.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\ToDoConsoleApp\obj\Debug\netcoreapp3.1\ToDoConsoleApp.AssemblyInfo.cs
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\ToDoConsoleApp\obj\Debug\netcoreapp3.1\ToDoConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\ToDoConsoleApp\bin\Debug\netcoreapp3.1\ToDoConsoleApp.exe
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\ToDoConsoleApp\bin\Debug\netcoreapp3.1\ToDoConsoleApp.deps.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\ToDoConsoleApp\bin\Debug\netcoreapp3.1\ToDoConsoleApp.runtimeconfig.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\ToDoConsoleApp\bin\Debug\netcoreapp3.1\ToDoConsoleApp.runtimeconfig.dev.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\ToDoConsoleApp\bin\Debug\netcoreapp3.1\ToDoConsoleApp.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\ToDoConsoleApp\bin\Debug\netcoreapp3.1\ToDoConsoleApp.pdb
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\ToDoConsoleApp\obj\Debug\netcoreapp3.1\ToDoConsoleApp.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\ToDoConsoleApp\obj\Debug\netcoreapp3.1\ToDoConsoleApp.pdb
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\ToDoConsoleApp\obj\Debug\netcoreapp3.1\ToDoConsoleApp.genruntimeconfig.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\ToDoConsoleApp\obj\Debug\netcoreapp3.1\ToDoConsoleApp.csproj.AssemblyReference.cache

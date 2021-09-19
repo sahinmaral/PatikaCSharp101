@@ -10,4 +10,3 @@ C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\Patik
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\WhileForeach\obj\Debug\netcoreapp3.1\WhileForeach.dll
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\WhileForeach\obj\Debug\netcoreapp3.1\WhileForeach.pdb
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\WhileForeach\obj\Debug\netcoreapp3.1\WhileForeach.genruntimeconfig.cache
-C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\WhileForeach\obj\Debug\netcoreapp3.1\WhileForeach.csprojAssemblyReference.cache

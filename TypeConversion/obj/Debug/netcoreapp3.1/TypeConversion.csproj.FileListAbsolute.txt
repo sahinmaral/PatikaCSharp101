@@ -10,4 +10,3 @@ C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\Patik
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.dll
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.pdb
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.genruntimeconfig.cache
-C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.csprojAssemblyReference.cache

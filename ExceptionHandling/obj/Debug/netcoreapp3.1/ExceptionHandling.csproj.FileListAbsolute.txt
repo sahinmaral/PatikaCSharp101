@@ -10,4 +10,3 @@ C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\Patik
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.dll
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.pdb
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.genruntimeconfig.cache
-C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.csprojAssemblyReference.cache

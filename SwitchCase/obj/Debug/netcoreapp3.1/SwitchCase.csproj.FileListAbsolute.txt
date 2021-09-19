@@ -10,4 +10,3 @@ C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\Patik
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.dll
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.pdb
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.genruntimeconfig.cache
-C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.csprojAssemblyReference.cache

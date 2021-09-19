@@ -10,4 +10,4 @@ C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\Patik
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\Operators\obj\Debug\netcoreapp3.1\Operators.dll
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\Operators\obj\Debug\netcoreapp3.1\Operators.pdb
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\Operators\obj\Debug\netcoreapp3.1\Operators.genruntimeconfig.cache
-C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\Operators\obj\Debug\netcoreapp3.1\Operators.csprojAssemblyReference.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\Operators\obj\Debug\netcoreapp3.1\Operators.csproj.AssemblyReference.cache
