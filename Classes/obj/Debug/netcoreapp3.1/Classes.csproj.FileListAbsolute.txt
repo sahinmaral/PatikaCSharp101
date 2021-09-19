@@ -10,3 +10,4 @@ C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\Patik
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\Classes\obj\Debug\netcoreapp3.1\Classes.dll
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\Classes\obj\Debug\netcoreapp3.1\Classes.pdb
 C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\Classes\obj\Debug\netcoreapp3.1\Classes.genruntimeconfig.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\Classes\obj\Debug\netcoreapp3.1\Classes.csproj.AssemblyReference.cache

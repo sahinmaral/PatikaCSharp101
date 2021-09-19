@@ -10,7 +10,7 @@ namespace Classes
             {
                 Name = "Şahin", Surname = "MARAL", Number = 5, Department = "Computer Engineering"
             };
-
+            
             employee1.GetInfos();
         }
     }

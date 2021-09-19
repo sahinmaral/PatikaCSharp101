@@ -1,0 +1,13 @@
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\HackerRankDay17\obj\Debug\netcoreapp3.1\HackerRankDay17.csproj.AssemblyReference.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\HackerRankDay17\obj\Debug\netcoreapp3.1\HackerRankDay17.AssemblyInfoInputs.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\HackerRankDay17\obj\Debug\netcoreapp3.1\HackerRankDay17.AssemblyInfo.cs
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\HackerRankDay17\obj\Debug\netcoreapp3.1\HackerRankDay17.csproj.CoreCompileInputs.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\HackerRankDay17\bin\Debug\netcoreapp3.1\HackerRankDay17.exe
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\HackerRankDay17\bin\Debug\netcoreapp3.1\HackerRankDay17.deps.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\HackerRankDay17\bin\Debug\netcoreapp3.1\HackerRankDay17.runtimeconfig.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\HackerRankDay17\bin\Debug\netcoreapp3.1\HackerRankDay17.runtimeconfig.dev.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\HackerRankDay17\bin\Debug\netcoreapp3.1\HackerRankDay17.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\HackerRankDay17\bin\Debug\netcoreapp3.1\HackerRankDay17.pdb
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\HackerRankDay17\obj\Debug\netcoreapp3.1\HackerRankDay17.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\HackerRankDay17\obj\Debug\netcoreapp3.1\HackerRankDay17.pdb
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\HackerRankDay17\obj\Debug\netcoreapp3.1\HackerRankDay17.genruntimeconfig.cache

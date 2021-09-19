@@ -1,0 +1,13 @@
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\DateTimeAndMathMethods\bin\Debug\netcoreapp3.1\DateTimeAndMathMethods.exe
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\DateTimeAndMathMethods\bin\Debug\netcoreapp3.1\DateTimeAndMathMethods.deps.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\DateTimeAndMathMethods\bin\Debug\netcoreapp3.1\DateTimeAndMathMethods.runtimeconfig.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\DateTimeAndMathMethods\bin\Debug\netcoreapp3.1\DateTimeAndMathMethods.runtimeconfig.dev.json
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\DateTimeAndMathMethods\bin\Debug\netcoreapp3.1\DateTimeAndMathMethods.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\DateTimeAndMathMethods\bin\Debug\netcoreapp3.1\DateTimeAndMathMethods.pdb
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\DateTimeAndMathMethods\obj\Debug\netcoreapp3.1\DateTimeAndMathMethods.csproj.AssemblyReference.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\DateTimeAndMathMethods\obj\Debug\netcoreapp3.1\DateTimeAndMathMethods.AssemblyInfoInputs.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\DateTimeAndMathMethods\obj\Debug\netcoreapp3.1\DateTimeAndMathMethods.AssemblyInfo.cs
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\DateTimeAndMathMethods\obj\Debug\netcoreapp3.1\DateTimeAndMathMethods.csproj.CoreCompileInputs.cache
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\DateTimeAndMathMethods\obj\Debug\netcoreapp3.1\DateTimeAndMathMethods.dll
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\DateTimeAndMathMethods\obj\Debug\netcoreapp3.1\DateTimeAndMathMethods.pdb
+C:\Users\sahin\OneDrive\Desktop\​‏       \GithubProjects\PatikaCSharp101\DateTimeAndMathMethods\obj\Debug\netcoreapp3.1\DateTimeAndMathMethods.genruntimeconfig.cache
